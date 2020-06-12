@@ -5,7 +5,7 @@
 **Overview**
 - Created a web application that returns the predicted number of hours one listens to K-pop on a daily basis using FLASK (MAE ~ 1.2 hours).
 
-  ![](https://github.com/importdata/ds-simple-portfolio/blob/master/images/kpop%20gui.png)
+  ![](/images/kpop gui.png)
 
 - Engineered features from the text of each column.
 - Explored the data to analyze the relationships among the features (or variables).
