@@ -1,6 +1,6 @@
 # ds-simple-portfolio
 
-## ![Project 1: K-Pop Analysis](https://github.com/importdata/kpop-analysis)
+## ![Project 1: K-Pop Analysis](/importdata/kpop-analysis)
 
 **Overview**
 - Created a web application that returns the predicted number of hours one listens to K-pop on a daily basis using FLASK (MAE ~ 1.2 hours).
