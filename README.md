@@ -12,7 +12,7 @@
 
   ![](/images/corr plot.png)
 
-  ![](images/kpop pos eff.png)
+  ![](/images/kpop pos eff.png)
   
 - Built five different regression models - linear, lasso, ridge, random forest, and XGBoost.
 - Optimized the random forest and the XGBoost model using GridsearchCV to find the optimal parameters.
