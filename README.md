@@ -4,6 +4,9 @@
 
 **Overview**
 - Created a web application that returns the predicted number of hours one listens to K-pop on a daily basis using FLASK (MAE ~ 1.2 hours).
+
+  ![](/images/kpop gui.png)
+
 - Engineered features from the text of each column.
 - Explored the data to analyze the relationships among the features (or variables).
 - Built five different regression models - linear, lasso, ridge, random forest, and XGBoost.
